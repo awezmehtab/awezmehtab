@@ -30,3 +30,5 @@ Have to learn
 - 📫 How to reach me: awez_mehtab (Instagram)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have 2 legs & 2 hands. 
+
+![](https://komarev.com/ghpvc/?username=awezmehtab&color=ff69b4)
