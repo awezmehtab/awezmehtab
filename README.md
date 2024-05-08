@@ -22,11 +22,6 @@ I have a decent amount of interest in coding. Currently I can use C++, Python, J
 #### Skills:
 Have to learn
 
-- 🔭 I’m currently working on myself
-- 🌱 I’m currently learning how to fix my sleep schedule
-- 👯 I’m looking to collaborate on anything
-- 🤔 I’m looking for help with anything
-- 💬 Ask me about nothing
 - 📫 How to reach me: awez_mehtab (Instagram)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have 2 legs & 2 hands. 
