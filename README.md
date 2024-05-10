@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I have a decent amount of interest in coding. Currently I can use C++, Python, JavaScript, HTML-CSS, NodeJS, ExpressJS. I like exploring how code can help us visualize various things in Mathematics, Physics and in general 3d Graphics. I also am interested in maths. Apart from academics, I like doing standup comedy 🎤
+I have a decent amount of interest in coding. Currently I can use C++, Python, JavaScript, HTML-CSS, NodeJS, ExpressJS, Bash, LaTeX. I like exploring how code can help us visualize various things in Mathematics, Physics and in general 3d Graphics. I also am interested in maths. Apart from academics, I like doing standup comedy 🎤
 
 #### Skills:
 Have to learn
