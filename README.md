@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=awezmehtab&color=ff69b4)
 ### Hi there 👋, Welcome!
 
 My name is Awez. I'm from Indian Institute of Technology (IIT) Bombay currently taking Computer Science & Engineering (CSE) 💻
@@ -22,7 +23,7 @@ I have a decent amount of interest in coding. Currently I can use C++, Python, J
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=awezmehtab&show_icons=true&theme=radical)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awezmehtab&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awezmehtab&exclude_repo=awezmehtab.github.io,sos&theme=radical)
 
 #### Skills:
 Have to learn
@@ -30,5 +31,3 @@ Have to learn
 - 📫 How to reach me: awez_mehtab (Instagram)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have 2 legs & 2 hands. 
-
-![](https://komarev.com/ghpvc/?username=awezmehtab&color=ff69b4)
