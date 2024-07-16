@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I have a decent amount of interest in coding. Currently I can use C++, Python, JavaScript, HTML-CSS, NodeJS, ExpressJS, Bash, LaTeX. I like exploring how code can help us visualize various things in Mathematics, Physics and in general 3d Graphics. I also am interested in maths. Apart from academics, I like doing standup comedy 🎤
+I have a decent amount of interest in coding. Currently I can use C++, Python, JavaScript, NodeJS, ExpressJS, Bash, LaTeX, HTML-CSS(only if you want to count). I am interested in mathematics, computer science, physics. I like being creative with code. I also enjoy competitive programming, quantum computation. Apart from academics, I like doing standup comedy 🎤
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=awezmehtab&show_icons=true&theme=radical)
 
@@ -30,4 +30,4 @@ Have to learn
 
 - 📫 How to reach me: awez_mehtab (Instagram)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have 2 legs & 2 hands. 
+- ⚡ Fun fact: 2019 was 5 years ago 😢
