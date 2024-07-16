@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=awezmehtab&color=ff69b4)
-### Hi there 👋, Welcome!
+# Hi there 👋, Welcome!
 
 My name is Awez. I'm from Indian Institute of Technology (IIT) Bombay currently taking Computer Science & Engineering (CSE) 💻
 
