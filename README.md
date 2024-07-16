@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I have a decent amount of interest in coding. Currently I can use C++, Python, JavaScript, HTML-CSS, NodeJS, ExpressJS, Bash, LaTeX. I like exploring how code can help us visualize various things in Mathematics, Physics and in general 3d Graphics. I also am interested in maths. Apart from academics, I like doing standup comedy 🎤
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=awezmehtab)](https://github.com/awezmehtab/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=awezmehtab)](https://github.com/awezmehtab/github-readme-stats&theme=dark)
 
 #### Skills:
 Have to learn
