@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 
 I have a decent amount of interest in coding. Currently I can use C++, Python, JavaScript, NodeJS, ExpressJS, Bash, LaTeX, HTML-CSS(only if you want to count). I am interested in mathematics, computer science, physics. I like being creative with code. I also enjoy competitive programming, quantum computation. Apart from academics, I like doing standup comedy 🎤
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awezmehtab&exclude_repo=awezmehtab.github.io,sos&theme=radical) [![GitHub Streak](https://streak-stats.demolab.com/?user=awezmehtab&theme=dark)](https://git.io/streak-stats)
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=awezmehtab&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=awezmehtab&theme=dark)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awezmehtab&exclude_repo=awezmehtab.github.io,sos&theme=radical)
 
 - 📫 How to reach me: awez_mehtab (Instagram)
 - 😄 Pronouns: He/Him
