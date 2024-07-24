@@ -25,8 +25,7 @@ I have a decent amount of interest in coding. Currently I can use C++, Python, J
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awezmehtab&exclude_repo=awezmehtab.github.io,sos&theme=radical)
 
-#### Skills:
-Have to learn
+[![GitHub Streak](https://streak-stats.demolab.com/?user=awezmehtab&theme=dark)](https://git.io/streak-stats)
 
 - 📫 How to reach me: awez_mehtab (Instagram)
 - 😄 Pronouns: He/Him
