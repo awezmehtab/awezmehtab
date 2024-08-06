@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I have a decent amount of interest in coding. Currently I can use C++, Python, JavaScript, NodeJS, ExpressJS, Bash, LaTeX, HTML-CSS(only if you want to count). I am interested in mathematics, computer science, physics. I like being creative with code. I also enjoy competitive programming, quantum computation. Apart from academics, I like doing standup comedy 🎤
+I have a decent amount of interest in coding. Currently I can use C++, Python, JavaScript, NodeJS, ExpressJS, Bash, LaTeX, HTML-CSS(only if you want to count). I am interested in mathematics, computer science, physics. I enjoy competitive programming, quantum computation. Apart from academics, I like doing standup comedy 🎤
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=awezmehtab&theme=dark)](https://git.io/streak-stats)
 
