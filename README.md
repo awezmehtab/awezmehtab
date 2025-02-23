@@ -27,7 +27,7 @@ I have a decent amount of interest in coding. Currently I can use C++, Python, J
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=awezmehtab&theme=dark)](https://git.io/streak-stats) -->
 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: 2019 was 5 years ago
+-  Pronouns: He/Him
+-  Fun fact: 2019 was 5 years ago
 
 Have a nice day 😄
