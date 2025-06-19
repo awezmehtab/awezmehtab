@@ -1,33 +1,3 @@
-<!-- ![](https://komarev.com/ghpvc/?username=awezmehtab&color=ff69b4)
-# Hi there 👋, Welcome! -->
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&width=1000&lines=Hi+there%2C+Welcome)](https://git.io/typing-svg)
 
 My name is Awez. I'm from Indian Institute of Technology (IIT) Bombay currently taking Computer Science & Engineering (CSE) 💻
-
-<!--
-**awezmehtab/awezmehtab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
-I have a decent amount of interest in coding. Currently I can use C++, Python, JavaScript, NodeJS, ExpressJS, Bash, LaTeX, HTML-CSS(only if you want to count). I am interested in mathematics, computer science and physics. I also enjoy competitive programming, quantum computation. Apart from academics, I like doing standup comedy 🎤
--->
-
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=awezmehtab&theme=dark)](https://git.io/streak-stats) -->
-
--  Pronouns: He/Him
--  Fun fact: 2019 was 5 years ago
-
-Have a nice day 😄
